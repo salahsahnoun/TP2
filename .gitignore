@@ -1,0 +1,7 @@
+image.webp
+source_auteur/
+.ipynb_checkpoints/
+__pycache__/
+spark-warehouse/
+metastore_db/
+derby.log
